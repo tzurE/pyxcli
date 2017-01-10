@@ -5,7 +5,7 @@ This protocol is relevant for IBM XIV, Spectrum Accelerate, FlashSystem A9000
 and FlashSystem A9000R storages.
 The client enables full management and monitoring of the storage arrays.
 
-## Getting Started
+## Getting Started  
 
 Clone the repository, add it to your PYTHONPATH. The XCLI client is ready for import and use.
 
